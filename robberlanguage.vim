@@ -1,4 +1,4 @@
-function! RobberLanguage() range
+function! RobberLanguage()
 python << EOF
 
 import vim
